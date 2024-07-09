@@ -4,4 +4,4 @@
 
 Google Colab с обучением YOLOv8: [Google Colab](https://colab.research.google.com/drive/12yv9yJZCufv6Uyu28T2zFgXZsJLZ6aZ1?usp=sharing)
 
-Также данный проект содержит веса на yolo8n. Их можно найти в файлах `best.pt` и `last.pt`.
+Веса на YOLOv8n можно найти в файлах `best.pt` и `last.pt`.
